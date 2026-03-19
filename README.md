@@ -15,16 +15,17 @@
 
 ## 🚀 About Me 
 I am a Business Intelligence & Data Analyst with hands-on experience transforming complex data into clear, actionable insights. Proficient in Power BI, Tableau, SQL, Python, R, and Excel, I specialize in building dynamic dashboards, performing in-depth data analysis, and delivering data-driven narratives tailored to business needs. I am detail-oriented, analytically sharp, and passionate about turning complex data into strategic value.
+
 Currently available for new opportunities.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://SavMicheal.github.io/)
       
-## 🔭 What I'm Currently Working On 
+<!-- ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+<!-- - **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
+<!-- - **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
+<!-- - **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
 
 ## 🌱 Currently Learning 
 
